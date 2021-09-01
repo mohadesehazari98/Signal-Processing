@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1621165570 source:d:\term8\dsp\lab_4\complex.c
+	<math.h>
+	"Complex.h"
+
+1621165602 d:\term8\dsp\lab_4\complex.h
+
+1622102624 source:d:\term8\dsp\lab_4\fft.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"Complex.h"
+
+1622112749 source:d:\term8\dsp\lab_4\lab4_pro\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"Complex.h"
+
